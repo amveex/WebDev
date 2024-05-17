@@ -1,0 +1,27 @@
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    
+    p {
+        font-size: 24px;
+        font-weight: bold;
+        font-family: Verdana;
+        color: #FAFAFA;
+    }
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 8px;
+    padding: 25px 30px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #017373, #AAD9D1);
+
+    p {
+        color: #000000;
+    }
+}

@@ -1,0 +1,27 @@
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -moz-column-gap: 10px;
+       column-gap: 10px;
+}
+.logo p {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Verdana;
+  color: #FAFAFA;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -moz-column-gap: 8px;
+       column-gap: 8px;
+  padding: 25px 30px;
+  border-radius: 10px;
+  background: linear-gradient(45deg, #017373, #AAD9D1);
+}
+.btn p {
+  color: #000000;
+}
